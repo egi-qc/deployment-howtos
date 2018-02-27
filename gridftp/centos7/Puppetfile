@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+forge "https://forgeapi.puppetlabs.com"
+
+mod "egi-qc/umd",
+  :git => "git://github.com/egi-qc/puppet-umd.git"
+
+
+mod "puppet-gridftp", 
+  :git => "git://github.com/cern-it-sdc-id/puppet-gridftp",
+  :ref => "master"
+
