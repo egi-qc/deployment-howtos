@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+
+forge "https://forgeapi.puppetlabs.com"
+
+mod "egi-qc/umd",
+  :git => "git://github.com/egi-qc/puppet-umd.git"
+
+
+
+mod "puppetlabs-stdlib"
+
+
+mod "puppet-dpm", 
+  :git => "git://github.com/egi-qc/puppet-dpm.git"
+
