@@ -20,4 +20,4 @@ the right values that work for your environment.
 Please note:
   - _Use `sudo` with non-root accounts_
 
-Jenkins build URL: https://jenkins.egi.ifca.es/argus/42
+Jenkins build URL: https://jenkins.egi.ifca.es/job/argus/43
