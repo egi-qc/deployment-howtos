@@ -1,0 +1,12 @@
+---
+distribution: umd
+
+release: 4
+
+enable_testing_repo: false
+
+
+enable_untested_repo: false
+
+
+igtf_repo: ('yes',)

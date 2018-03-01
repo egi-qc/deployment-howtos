@@ -1,0 +1,17 @@
+pap_host: centos7-8780
+pap_port: 8150
+pap_host_dn: /DC=es/DC=UMDverification/CN=centos7-8780
+pap_admin_dn: /DC=es/DC=UMDverification/CN=centos7-8780
+pap_port_shutdown: 8151
+pap_host_cert: /etc/grid-security/hostcert.pem
+pap_host_key: /etc/grid-security/hostkey.pem
+pdp_host: centos7-8780
+pdp_port: 8152
+pdp_port_admin: 8153
+pdp_host_cert: /etc/grid-security/hostcert.pem
+pdp_host_key: /etc/grid-security/hostkey.pem
+pepd_host: centos7-8780
+pepd_port: 8154
+pepd_port_admin: 8155
+pepd_host_cert: /etc/grid-security/hostcert.pem
+pepd_host_key: /etc/grid-security/hostkey.pem
