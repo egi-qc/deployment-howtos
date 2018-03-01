@@ -15,7 +15,7 @@ Do not rely on the values set for the variables in the Hiera YAML files
 within `puppet/hieradata/`; set here the right values that work for your
 environment.
 
-## Deployment with Puppet (use `sudo` with non-root accounts)
+## Deployment with `puppet apply`
 
     $ git clone https://github.com/egi-qc/jenkins-builds && cd jenkins-builds/gridftp/centos7
     
@@ -25,3 +25,9 @@ environment.
     $ cp -r puppet/hieradata /etc/puppet/hieradata
     
     $ puppet apply --modulepath /etc/puppet/modules manifests/gridftp.pp
+
+Please note:
+  - _Use `sudo` with non-root accounts_
+
+  Product version:
+Jenkins build URL: http://193.146.75.229:8080/job/gridftp/46/
