@@ -28,6 +28,8 @@ environment.
 
 Please note:
   - _Use `sudo` with non-root accounts_
+  - `librarian-puppet` is only needed for managing the module dependencies. If you
+    have installed them manually, ignore this step.
 
   Product version:
-Jenkins build URL: http://193.146.75.229:8080/job/dpm/29/
+Jenkins build URL: https://jenkins.egi.ifca.es/job/dpm/30
