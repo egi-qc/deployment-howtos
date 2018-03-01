@@ -1,0 +1,18 @@
+bdii::params::siteurls:
+    - "BDII ldap://%{::fqdn}:2170/mds-vo-name=resource,o=grid"
+bdii::params::sitename: "GRID-SITE"
+bdii::params::sitebdiihost: "%{::fqdn}"
+bdii::params::sitedesc: "UMD Verification Testbed"
+bdii::params::siteweb: http://es.wikipedia.org/wiki/Puerto_Hurraco
+bdii::params::siteloc: "Puerto Hurraco"
+bdii::params::sitecountry: "Spain"
+bdii::params::sitelat: 38.6333
+bdii::params::sitelong: -5.55
+bdii::params::siteemail: hermanos.izquierdo@example.org 
+bdii::params::sitesecuritymail: hermanos.izquierdo@example.org
+bdii::params::sitesupportemail: hermanos.izquierdo@example.org
+bdii::params::config: puppet
+bdii::params::egeeservice: umd-verification
+bdii::params::grid:
+    - "WLCG"
+    - "EGI"
