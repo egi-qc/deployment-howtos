@@ -1,0 +1,3 @@
+xrootd::params::certificate: /etc/grid-security/hostcert.pem
+xrootd::params::key: /etc/grid-security/hostkey.pem
+xrootd::params::xrootd_instances: default
