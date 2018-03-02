@@ -1,0 +1,7 @@
+umd::release: 4 
+umd::distribution: umd 
+umd::verification_repofile: 
+umd::openstack_release: False
+umd::igtf_repo: False
+umd::enable_testing_repo: false
+umd::enable_untested_repo: false

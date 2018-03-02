@@ -1,0 +1,16 @@
+#!/usr/bin/env ruby
+
+forge "https://forgeapi.puppetlabs.com"
+
+mod "egi-qc/umd",
+  :git => "git://github.com/egi-qc/puppet-umd.git"
+
+
+
+mod "puppet-fetchcrl"
+
+
+mod "puppet-xrootd", 
+  :git => "git://github.com/egi-qc/puppet-xrootd.git",
+  :ref => "umd"
+
