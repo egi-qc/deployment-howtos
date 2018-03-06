@@ -1,0 +1,37 @@
+#!/usr/bin/env ruby
+
+forge "https://forgeapi.puppetlabs.com"
+
+mod "egi-qc/umd",
+  :git => "git://github.com/egi-qc/puppet-umd.git"
+
+
+
+mod "erwbgy-limits"
+
+
+
+mod "domcleal-augeasproviders"
+
+
+mod "puppet-fts", 
+  :git => "git://github.com/egi-qc/puppet-fts.git",
+  :ref => "umd"
+
+
+
+mod "cprice404-inifile"
+
+
+mod "puppet-fetchcrl", 
+  :git => "git://github.com/voxpupuli/puppet-fetchcrl.git",
+  :ref => "master"
+
+
+
+mod "puppetlabs-firewall"
+
+
+
+mod "puppetlabs-stdlib"
+

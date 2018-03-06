@@ -1,0 +1,4 @@
+fts3_db_name: "ftsdb"
+fts3_db_connect_string: "localhost/ftsdb"
+fts3_db_username: "ora_user"
+fts3_db_password: "ora_pass"
