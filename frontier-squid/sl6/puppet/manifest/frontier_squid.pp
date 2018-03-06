@@ -1,7 +1,7 @@
 include umd
 
 class { 'frontier::squid':
-    #customize_file => 'puppet:///modules/mymodule/customize.sh',
-    cache_dir      => '/var/cache/squid',
-    require        => Class["umd"]
+    customize_params => {cache_size => 10000},
+    cache_dir        => '/var/cache/squid',
+    require          => Class["umd"]
 }
