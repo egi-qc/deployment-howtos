@@ -1,0 +1,19 @@
+#!/usr/bin/env ruby
+
+forge "https://forgeapi.puppetlabs.com"
+
+mod "egi-qc/umd",
+  :git => "git://github.com/egi-qc/puppet-umd.git"
+
+
+mod "puppet-slurm", 
+  :git => "git://github.com/egi-qc/puppet-slurm.git"
+
+
+
+mod "puppetlabs-firewall"
+
+
+
+mod "infnpd-creamce"
+
