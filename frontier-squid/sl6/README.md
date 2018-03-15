@@ -17,7 +17,7 @@ environment.
 
 ## Deployment with `puppet apply`
 
-    $ git clone https://github.com/egi-qc/jenkins-builds && cd jenkins-builds/frontier-squid/sl6
+    $ git clone https://github.com/egi-qc/deployment-howtos && cd deployment-howtos/frontier-squid/sl6
     
     $ librarian-puppet install --clean --path=/etc/puppet/modules --verbose
     
