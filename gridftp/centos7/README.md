@@ -17,7 +17,7 @@ environment.
 
 ## Deployment with `puppet apply`
 
-    $ git clone https://github.com/egi-qc/jenkins-builds && cd jenkins-builds/gridftp/centos7
+    $ git clone https://github.com/egi-qc/deployment-howtos && cd deployment-howtos/gridftp/centos7
     
     $ librarian-puppet install --clean --path=/etc/puppet/modules --verbose
     
@@ -31,5 +31,5 @@ Please note:
   - `librarian-puppet` is only needed for managing the module dependencies. If you
     have installed them manually, ignore this step.
 
-  Product version:
+
 Jenkins build URL: https://jenkins.egi.ifca.es/job/gridftp/47
