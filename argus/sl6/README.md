@@ -15,9 +15,11 @@ the right values that work for your environment.
 
     $ ansible-galaxy install -r /tmp/ansible-argus/requirements.yml
 
+    $ git clone https://github.com/egi-qc/deployment-howtos && cd deployment-howtos/argus/sl6
+
     $ ansible-pull -vvv -C master -d /etc/ansible/roles/ansible-argus -i /etc/ansible/roles/ansible-argus/hosts -U https://github.com/egi-qc/ansible-argus --extra-vars '@vars/umd.yaml' --extra-vars '@vars/extra_vars.yaml' --tags 'all'
 
 Please note:
   - _Use `sudo` with non-root accounts_
 
-Jenkins build URL: 
+Jenkins build URL: https://jenkins.egi.ifca.es/job/argus/40
