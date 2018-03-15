@@ -17,7 +17,7 @@ environment.
 
 ## Deployment with `puppet apply`
 
-    $ git clone https://github.com/egi-qc/jenkins-builds && cd jenkins-builds/xrootd/centos7
+    $ git clone https://github.com/egi-qc/deployment-howtos && cd deployment-howtos/xrootd/centos7
     
     $ librarian-puppet install --clean --path=/etc/puppet/modules --verbose
     
