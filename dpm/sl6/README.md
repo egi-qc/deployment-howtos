@@ -15,9 +15,9 @@ Do not rely on the values set for the variables in the Hiera YAML files
 within `puppet/hieradata/`; set here the right values that work for your
 environment.
 
-## Deployment with Puppet (use `sudo` with non-root accounts)
+## Deployment with `puppet apply`
 
-    $ git clone https://github.com/egi-qc/jenkins-builds && cd jenkins-builds/dpm/sl6
+    $ git clone https://github.com/egi-qc/deployment-howtos && cd deployment-howtos/dpm/sl6
     
     $ librarian-puppet install --clean --path=/etc/puppet/modules --verbose
     
@@ -25,3 +25,11 @@ environment.
     $ cp -r puppet/hieradata /etc/puppet/hieradata
     
     $ puppet apply --modulepath /etc/puppet/modules manifests/dpm.pp
+
+Please note:
+  - _Use `sudo` with non-root accounts_
+  - `librarian-puppet` is only needed for deploying the module dependencies. If you
+    have installed them manually, ignore this step.
+
+
+Jenkins build URL: https://jenkins.egi.ifca.es/job/dpm/27
