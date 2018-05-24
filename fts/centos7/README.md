@@ -31,5 +31,5 @@ Please note:
   - `librarian-puppet` is only needed for deploying the module dependencies. If you
     have installed them manually, ignore this step.
 
-
-Jenkins build URL: https://jenkins.egi.ifca.es/job/fts/46
+Product version:
+Jenkins build URL: https://jenkins.egi.ifca.es/job/fts/48

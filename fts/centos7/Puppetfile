@@ -23,11 +23,6 @@ mod "puppet-fts",
 mod "cprice404-inifile"
 
 
-mod "puppet-fetchcrl", 
-  :git => "git://github.com/voxpupuli/puppet-fetchcrl.git",
-  :ref => "master"
-
-
 
 mod "puppetlabs-firewall"
 
