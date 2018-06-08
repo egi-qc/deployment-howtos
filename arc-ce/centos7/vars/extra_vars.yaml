@@ -1,0 +1,2 @@
+arc_x509_user_key: /etc/grid-security/hostkey.pem
+arc_x509_user_cert: /etc/grid-security/hostcert.pem
