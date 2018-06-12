@@ -1,0 +1,17 @@
+---
+distribution: umd
+
+release: 4
+
+enable_testing_repo: false
+
+
+enable_untested_repo: false
+
+
+igtf_repo: ('True',)
+
+verification_repofile:
+
+  - http://admin-repo.egi.eu/sw/unverified/umd-4.arc.arc.sl6.x86_64/15/03/18/repofiles/ARC.arc.sl6.x86_64.repo
+
