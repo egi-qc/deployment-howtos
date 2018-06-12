@@ -1,0 +1,17 @@
+---
+distribution: cmd
+cmd_distribution: cmd-os
+release: 1
+
+enable_testing_repo: false
+
+
+enable_untested_repo: false
+
+openstack_release: mitaka
+igtf_repo: False
+
+verification_repofile:
+
+  - http://admin-repo.egi.eu/sw/unverified/umd-1.ifca.caso.centos7.x86_64/1/2/0/repofiles/IFCA.caso.centos7.x86_64.repo
+

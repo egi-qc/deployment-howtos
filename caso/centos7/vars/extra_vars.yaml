@@ -1,0 +1,12 @@
+site_name: UMD
+projects: demo
+extractor: nova
+auth_type: password
+auth_url: http://172.16.39.7/identity
+username: admin
+user_domain_name: default
+password: secret
+output_path: /var/spool/apel/outgoing/openstack
+vos:
+  demo:
+  - demo
