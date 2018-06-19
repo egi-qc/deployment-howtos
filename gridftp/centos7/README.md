@@ -28,8 +28,8 @@ environment.
 
 Please note:
   - _Use `sudo` with non-root accounts_
-  - `librarian-puppet` is only needed for managing the module dependencies. If you
+  - `librarian-puppet` is only needed for deploying the module dependencies. If you
     have installed them manually, ignore this step.
 
 
-Jenkins build URL: https://jenkins.egi.ifca.es/job/gridftp/47
+Jenkins build URL: https://jenkins.egi.ifca.es/job/gridftp/48
