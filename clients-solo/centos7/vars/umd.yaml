@@ -1,0 +1,23 @@
+---
+distribution: umd
+
+release: 4
+
+enable_testing_repo: False
+
+
+enable_untested_repo: False
+
+
+igtf_repo: False
+
+verification_repofile:
+
+  - http://admin-repo.egi.eu/sw/unverified/umd-4.cern.srm-ifce.centos7.x86_64/1/24/3/repofiles/CERN.srm-ifce.centos7.x86_64.repo
+
+  - http://repository.egi.eu/sw/stagerollout/umd-4.cern.davix.centos7.x86_64/0/repofiles/CERN.davix.centos7.x86_64.repo
+
+  - http://admin-repo.egi.eu/sw/unverified/umd-4.gfal2.gfal2.centos7.x86_64/2/15/4/repofiles/GFAL2.gfal2.centos7.x86_64.repo
+
+  - http://admin-repo.egi.eu/sw/unverified/umd-4.infn.voms.centos7.x86_64/3/0/7/repofiles/INFN.voms.centos7.x86_64.repo
+
