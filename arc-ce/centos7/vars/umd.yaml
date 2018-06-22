@@ -13,5 +13,5 @@ igtf_repo: ('True',)
 
 verification_repofile:
 
-  - http://admin-repo.egi.eu/sw/unverified/umd-4.arc.arc.centos7.x86_64/15/03/17/repofiles/ARC.arc.centos7.x86_64.repo
+  - http://admin-repo.egi.eu/sw/unverified/umd-4.arc.arc.centos7.x86_64/15/03/18/repofiles/ARC.arc.centos7.x86_64.repo
 
