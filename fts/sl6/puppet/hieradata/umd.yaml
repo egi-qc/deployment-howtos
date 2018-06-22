@@ -1,7 +1,7 @@
 umd::release: 4 
 umd::distribution: umd 
-umd::verification_repofile: ['http://admin-repo.egi.eu/sw/unverified/umd-4.fts3.fts3.sl6.x86_64/3/7/8/repofiles/FTS3.fts3.sl6.x86_64.repo']
+umd::verification_repofile: ['http://repository.egi.eu/sw/stagerollout/umd-4.fts3.fts3.sl6.x86_64/3/repofiles/FTS3.fts3.sl6.x86_64.repo']
 umd::openstack_release: False
 umd::igtf_repo: ('True',)
-umd::enable_testing_repo: false
-umd::enable_untested_repo: false
+umd::enable_testing_repo: true
+umd::enable_untested_repo: true

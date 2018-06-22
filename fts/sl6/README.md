@@ -32,4 +32,4 @@ Please note:
     have installed them manually, ignore this step.
 
 Product version:
-Jenkins build URL: https://jenkins.egi.ifca.es/job/fts/51
+Jenkins build URL: https://jenkins.egi.ifca.es/job/fts/52
