@@ -20,4 +20,4 @@ the right values that work for your environment.
 Please note:
   - _Use `sudo` with non-root accounts_
 
-Jenkins build URL: https://jenkins.egi.ifca.es/job/grid-clients/48
+Jenkins build URL: https://jenkins.egi.ifca.es/job/QualityCriteriaValidation/grid-clients/49
