@@ -32,4 +32,4 @@ Please note:
     have installed them manually, ignore this step.
 
 
-Jenkins build URL: https://jenkins.egi.ifca.es/job/dpm/27
+Jenkins build URL: https://jenkins.egi.ifca.es/job/QualityCriteriaValidation/dpm/37
