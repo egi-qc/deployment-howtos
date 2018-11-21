@@ -32,4 +32,4 @@ Please note:
     have installed them manually, ignore this step.
 
 
-Jenkins build URL: https://jenkins.egi.ifca.es/job/bdii-site/10
+Jenkins build URL: https://jenkins.egi.ifca.es/job/QualityCriteriaValidation/bdii-site/16
