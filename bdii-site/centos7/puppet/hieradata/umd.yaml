@@ -1,6 +1,6 @@
 umd::release: 4 
 umd::distribution: umd 
-umd::verification_repofile: 
+umd::verification_repofile: ['http://admin-repo.egi.eu/sw/unverified/umd-4.bdii.bdii.centos7.x86_64/5/2/5/repofiles/BDII.bdii.centos7.x86_64.repo']
 umd::openstack_release: False
 umd::igtf_repo: False
 umd::enable_testing_repo: false

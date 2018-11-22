@@ -31,5 +31,5 @@ Please note:
   - `librarian-puppet` is only needed for deploying the module dependencies. If you
     have installed them manually, ignore this step.
 
-
-Jenkins build URL: https://jenkins.egi.ifca.es/job/bdii-site/8
+Product version:
+Jenkins build URL: https://jenkins.egi.ifca.es/job/QualityCriteriaValidation/bdii-site/17
