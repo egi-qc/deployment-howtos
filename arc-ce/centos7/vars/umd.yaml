@@ -9,9 +9,9 @@ enable_testing_repo: false
 enable_untested_repo: false
 
 
-igtf_repo: ('True',)
+igtf_repo: False
 
 verification_repofile:
 
-  - http://admin-repo.egi.eu/sw/unverified/umd-4.arc.arc.centos7.x86_64/15/03/18/repofiles/ARC.arc.centos7.x86_64.repo
+  - http://admin-repo.egi.eu/sw/unverified/umd-4.arc.arc.centos7.x86_64/15/03/19/repofiles/ARC.arc.centos7.x86_64.repo
 
