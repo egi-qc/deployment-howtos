@@ -3,10 +3,10 @@ distribution: umd
 
 release: 4
 
-enable_testing_repo: false
+enable_testing_repo: true
 
 
-enable_untested_repo: false
+enable_untested_repo: true
 
 
 igtf_repo: False
