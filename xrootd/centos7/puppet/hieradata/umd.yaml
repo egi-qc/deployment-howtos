@@ -1,6 +1,6 @@
 umd::release: 4 
 umd::distribution: umd 
-umd::verification_repofile: ['http://admin-repo.egi.eu/sw/unverified/umd-4.epel.xroot.centos7.x86_64/4/8/4/repofiles/EPEL.xroot.centos7.x86_64.repo']
+umd::verification_repofile: ['http://admin-repo.egi.eu/sw/unverified/umd-4.epel.xroot.centos7.x86_64/4/8/5/repofiles/EPEL.xroot.centos7.x86_64.repo']
 umd::openstack_release: False
 umd::igtf_repo: False
 umd::enable_testing_repo: false
