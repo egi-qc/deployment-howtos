@@ -32,4 +32,4 @@ Please note:
     have installed them manually, ignore this step.
 
 Product version:
-Jenkins build URL: https://jenkins.egi.ifca.es/job/QualityCriteriaValidation/xrootd/26
+Jenkins build URL: https://jenkins.egi.ifca.es/job/QualityCriteriaValidation/xrootd/33
