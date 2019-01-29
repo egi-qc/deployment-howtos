@@ -1,0 +1,17 @@
+---
+distribution: cmd
+cmd_distribution: cmd-os
+release: 1
+
+enable_testing_repo: false
+
+
+enable_untested_repo: false
+
+openstack_release: mitaka
+igtf_repo: False
+
+verification_repofile:
+
+  - http://admin-repo.egi.eu/sw/unverified/cmd-os-1.cesnet.gridsite.ubuntu-xenial.amd64/2/3/5/repofiles/CESNET.gridsite.ubuntu-xenial.amd64.list
+
