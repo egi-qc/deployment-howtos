@@ -1,5 +1,3 @@
-cloud_info_provider_os_username: demo
-cloud_info_provider_os_password: secret
 cloud_info_provider_os_release: mitaka
 cloud_info_provider_middleware: openstack
 cloud_info_provider_conf_dir: /etc/cloud-info-provider

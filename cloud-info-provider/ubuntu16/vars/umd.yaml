@@ -1,6 +1,7 @@
 ---
 distribution: cmd
 cmd_distribution: cmd-os
+cmd_release: 1
 release: 1
 
 enable_testing_repo: true
@@ -8,10 +9,10 @@ enable_testing_repo: true
 
 enable_untested_repo: true
 
-openstack_release: mitaka
+cmd_openstack_release: mitaka
 igtf_repo: False
 
 verification_repofile:
 
-  - http://admin-repo.egi.eu/sw/unverified/cmd-os-1.infoprovider.cloud-info-provider.ubuntu-xenial.amd64/0/11/4/repofiles/INFOPROVIDER.cloud-info-provider.ubuntu-xenial.amd64.list
+  - http://admin-repo.egi.eu/sw/unverified/cmd-os-1.infoprovider.cloud-info-provider.ubuntu-xenial.amd64/0/11/5/repofiles/INFOPROVIDER.cloud-info-provider.ubuntu-xenial.amd64.list
 
