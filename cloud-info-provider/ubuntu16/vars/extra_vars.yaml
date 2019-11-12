@@ -1,4 +1,3 @@
-cloud_info_provider_os_release: mitaka
 cloud_info_provider_middleware: openstack
 cloud_info_provider_conf_dir: /etc/cloud-info-provider
 cloud_info_provider_bdii_dir: /var/lib/bdii/gip/provider

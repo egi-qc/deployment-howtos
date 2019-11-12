@@ -9,10 +9,11 @@ enable_testing_repo: true
 
 enable_untested_repo: true
 
-cmd_openstack_release: mitaka
 igtf_repo: False
 
 verification_repofile:
 
-  - http://admin-repo.egi.eu/sw/unverified/cmd-os-1.infoprovider.cloud-info-provider.ubuntu-xenial.amd64/0/11/5/repofiles/INFOPROVIDER.cloud-info-provider.ubuntu-xenial.amd64.list
+  - http://admin-repo.egi.eu/sw/unverified/cmd-os-1.infoprovider.cloud-info-provider.ubuntu-xenial.amd64/0/12/0/repofiles/INFOPROVIDER.cloud-info-provider.ubuntu-xenial.amd64.list
 
+
+cmd_openstack_release: queens
