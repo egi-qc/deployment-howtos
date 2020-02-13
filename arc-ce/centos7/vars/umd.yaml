@@ -1,6 +1,7 @@
 ---
 distribution: umd
 
+
 release: 4
 
 enable_testing_repo: true
@@ -8,5 +9,10 @@ enable_testing_repo: true
 
 enable_untested_repo: true
 
-
 igtf_repo: False
+
+verification_repofile:
+
+  - http://admin-repo.egi.eu/sw/unverified/umd-4.arc.arc6.centos7.x86_64/6/2/0/repofiles/ARC.arc6.centos7.x86_64.repo
+
+
