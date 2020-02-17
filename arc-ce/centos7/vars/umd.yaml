@@ -13,6 +13,6 @@ igtf_repo: False
 
 verification_repofile:
 
-  - http://admin-repo.egi.eu/sw/unverified/umd-4.arc.arc6.centos7.x86_64/6/2/0/repofiles/ARC.arc6.centos7.x86_64.repo
+  - http://admin-repo.egi.eu/sw/unverified/umd-4.arc.arc6.centos7.x86_64/6/4/1/repofiles/ARC.arc6.centos7.x86_64.repo
 
 
