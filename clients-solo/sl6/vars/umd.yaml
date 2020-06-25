@@ -13,6 +13,6 @@ igtf_repo: False
 
 verification_repofile:
 
-  - http://admin-repo.egi.eu/sw/unverified/umd-4.gfal2.gfal2.sl6.x86_64/2/17/2/repofiles/GFAL2.gfal2.sl6.x86_64.repo
+  - http://admin-repo.egi.eu/sw/unverified/umd-4.gfal2.gfal2.sl6.x86_64/2/17/3/repofiles/GFAL2.gfal2.sl6.x86_64.repo
 
 
