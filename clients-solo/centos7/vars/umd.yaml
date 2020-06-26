@@ -13,8 +13,6 @@ igtf_repo: False
 
 verification_repofile:
 
-  - http://admin-repo.egi.eu/sw/unverified/umd-4.gfal2.gfal2.centos7.x86_64/2/17/2/repofiles/GFAL2.gfal2.centos7.x86_64.repo
-
-  - http://admin-repo.egi.eu/sw/unverified/umd-4.epel.xroot.centos7.x86_64/4/11/2/repofiles/EPEL.xroot.centos7.x86_64.repo
+  - http://admin-repo.egi.eu/sw/unverified/umd-4.gfal2.gfal2.centos7.x86_64/2/17/3/
 
 
